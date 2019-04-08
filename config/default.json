@@ -1,0 +1,7 @@
+{
+    "name":"My MERN App - default",
+    "jwtPrivateKey":"marlabs-secret-key",
+    "db":{
+        "conn_str":"mongodb+srv://admin:admin@cluster0-nm9dt.mongodb.net/mern-app"
+    }
+}
